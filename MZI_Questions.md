@@ -8,11 +8,11 @@
 |СЕМЕСТР|3 семестр, 2026/2027 уч. год|
 
 Ссылка на материал: <br>
-https://github.com/dv0retsky/fastapi-tutorial/blob/main/FAPI1_Introduction/FAPI1_Introduction.md
+https://github.com/dv0retsky/secur-tutorial/blob/main/MZI_Questions.md
 
 ---
 
-# Вопросы к сессии по дисциплине «Методы защиты информации»
+# 🌟 Вопросы к сессии по дисциплине «Методы защиты информации»
 
 1. В чём заключается различие между информационной безопасностью и кибербезопасностью?
 2. Что входит в триаду CIA?
